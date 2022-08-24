@@ -5,23 +5,23 @@
 ## Contents <br>
    _Overview_<br>
    _Abstract_<br>
- 1. Documentation
- 2. Deliverables
- 3. Entity Relationship Diagram (ERD) of the BSA
- 4. Limitations
- 5. ERD of the BSA Area of Concentration
- 6. App Features
- 7. Tools and Technology Used
- 8. Agile & Project Management (Git, Jira)
- 9. Databases & Cloud Fundamentals (MySQL Configuration)
-10. API Development (Spring Boot Project Structure)
-11. Database Configuration
-12. The Postman CRUD Execution
-13. Automated Testing (JUnit, Mockito)
-14. Installation
-15. Conclusions
-16. Recommendations
-17. Future Work <br>
+ 1.   Documentation
+ 2.   Deliverables
+ 3.   Entity Relationship Diagram (ERD) of the BSA
+ 4.   Limitations
+ 5.   ERD of the BSA Area of Concentration
+ 6.   App Features
+ 7.   Tools and Technology Used
+ 8.   Agile & Project Management (Git, Jira)
+ 9.   Databases & Cloud Fundamentals (MySQL Configuration)
+10.   API Development (Spring Boot Project Structure)
+11.   Database Configuration
+12.   The Postman CRUD Execution
+13.   Automated Testing (JUnit, Mockito)
+14.   Installation
+15.   Conclusions
+16.   Recommendations
+17.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
