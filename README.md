@@ -80,4 +80,6 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
  * Link to Jira Board<br>
    Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
  
+ #
+### 2.   Entity Relationship Diagram (ERD) of the BSA
   
