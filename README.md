@@ -6,15 +6,17 @@
    _Overview_<br>
    _Abstract_<br>
  1.   Documentation
- 2.   Deliverables
- 3.   Entity Relationship Diagram (ERD) of the BSA
- 4.   Scope and Limitations of the Project
- 5.   Aim and Objectives of the Project
- 6.   ERD of the BSA Area of Concentration
- 7.   App Features
- 8.   Tools and Technology Used
- 9.   Agile & Project Management (Git, Jira)
- 10.   Databases & Cloud Fundamentals (MySQL Configuration)
+ 2.   Scope and Limitations of the Project
+ 3.   Aim and Objectives of the Project
+ 4.   Problem Definition
+ 5.   Significance of the Project
+ 6.   Deliverables
+ 7.   Entity Relationship Diagram (ERD) of the BSA
+ 10.   ERD of the BSA Area of Concentration
+ 11.   App Features
+ 12.   Tools and Technology Used
+ 13.   Agile & Project Management (Git, Jira)
+ 14.   Databases & Cloud Fundamentals (MySQL Configuration)
 10.   API Development (Spring Boot Project Structure)
 11.   Database Configuration
 12.   The Postman CRUD Execution
@@ -38,7 +40,7 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
   The motivation for building this App stems from:
   * minimizing time spent on maintaining record of books and customer needs
   * eliminating delays in book supply to library, schools etc
-  * efficiency in seraching for books
+  * efficiency in searching for books
   * reduction of cubersome of maintaining several documents
   * overall reduction of operating cost and time spent.
  
@@ -81,8 +83,34 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
  * Link to Jira Board<br>
    Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
  
+ #
+### 2. Scope and Limitations of the Project
+The scope of this project at the time of submission is limted to just two functionalities.  The          development to optimize the full functionalties of this app is a continous process.   At this            stage, the most importantant limitations lies in the fact that the level of obtainable result is        far below other apps in existence because of the limited number of available features. 
+
+#
+### 3.   Aim and Objectives of the Project
+The aim of this project is to develop a unique Application for suppliers to manage books through the listed objective:
+*  Development in Agile environment (GitHub, Jira)
+*  Database creation (MySQL)
+*  coding using Java
+*  API development using Spring Boot
+*  Automated Testing (JUnit, Mockito)
+
+#
+### 4.   Problem Definition
+  The conventional way of book management as well as the physical work required is not efficient and time consumming for both the suppliers and their customers. In the sense that the customers have to visit the suppliers directly or call on phone to ask the suppliers for books and other related information.  The suppliers on the other hand have to deal with crowds in their companies and their services are also limited. These inherent problems therefore imply a need for an automated application in a fully functional way to make the process a bit more simple and fast.
+
+#
+### 5.   Significance of the Project
+* Suppliers can register themselves directly on the app 
+* Suppliers can manage their books efficientlly through the app
+* Suppliers will automate using proper table to maintain their record that no one can access
+* Customers can register themselves directly on the app 
+* Customers can access the system online and search the books that they want
+* Customers can check information related to books through the app 
+
   #
-### 2.   Deliverables
+### 6.   Deliverables
    * Codebase
      * Spring Boot API with full CRUD functionality
      * Project Structure (back-end)
@@ -103,7 +131,7 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * Use of Lombok
 
  #
-### 3.   Entity Relationship Diagram (ERD) of the BSA
+### 7.   Entity Relationship Diagram (ERD) of the BSA
 * Conceptual ERD Drawn using Lucidchart <br>
   Conceptual ERD1 <br> 
 <img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
@@ -115,15 +143,3 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
 Logical ERD2 <br> 
 <img src="BookSupApScreenshot/Logical ERD of BSMS2.jpg"> <br>
 
- #
-### 4. Scope and Limitations of the Project
-The scope of this project at the time of submission is limted to just two functionalities.  The          development to optimize the full functionalties of this app is a continous process.   At this            stage, the most importantant limitations lies in the fact that the level of obtainable result is        far below other apps in existence because of the limited number of available features. 
-
-#
-### 5.   Aim and Objectives of the Project
-The aim of this project is to develop a unique Application for suppliers for book management through the listed objective:
-*  Development in Agile environment (GitHub, Jira)
-*  Database creation (MySQL)
-*  coding using Java
-*  API development using Spring Boot
-*  Automated Testing (JUnit, Mockito)
