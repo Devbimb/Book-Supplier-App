@@ -22,10 +22,10 @@
 * Future Work
 * Acknowledgement
 
-
+#
 ### Overview
 _This app allows book suppliers to manage their books. It will allow suppliers to login and get information about request to supply book to library, schools, company and individual._ 
-
+#
 ### Abstract
 _This app was created using a Spring Boot API, with utilization of supporting tools, methodologies, and technologies that encapsulate an application of back-end developed using Java Programming Fundamentals, a managed database (MySQL) hosted locally on Port 8086, a means of making API Calls using Postman and a means of checking persistence using Workbench 8.0 console._   
 
