@@ -71,8 +71,6 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * More hands on coding skills
    * Researchiing more into book management systems
    
- * Screenshots showing postman requests and the output from the API<br>   
-   This is as shown in section 12 of the contents<br>
  * Screenshots showing postman requests and the output from the API<br>
    This is as shown in section 12 of the contents<br>
  * Screenshots of Database to prove that data is being persisted<br>
