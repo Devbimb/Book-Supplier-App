@@ -4,6 +4,7 @@
 
 ## Contents
 * Overview
+* Abstract
 * Documentation
 * Deliverables
 * Entity Relationship Diagram (ERD) of the BSA
@@ -19,8 +20,9 @@
 * Automated Testing (JUnit, Mockito)
 * Installation
 * Future Work
+* Acknowledgement
 
-- This app allows book suppliers to manage their books.  
-- It will allow suppliers to login and get information about request to supply book to library, schools, company and individual 
+#### Overview
+_This app allows book suppliers to manage their books. It will allow suppliers to login and get information about request to supply book to library, schools, company and individual._ 
 ### 
 
