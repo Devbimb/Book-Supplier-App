@@ -80,8 +80,29 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
  * Link to Jira Board<br>
    Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
  
+  #
+### 2.   Deliverables
+   * Codebase
+     * Spring Boot API with full CRUD functionality
+     * Project Structure (back-end)
+   
+   * Testing
+     * Unit and integration testing for the project back-end
+     * Test coverage of the src/main/java folder.
+ 
+   * Continous Integration
+     * GitHub Repository
+     * A build of the application present in the root folder of git repo
+     * A .jar which can be deployed from the command-line (java -jar <filename.jar>)
+ 
+   * Entity Relationship Diagram (ERD)
+   * Use of Custom Queries
+   * Use of Custom Exceptions
+   * Use of DTOs
+   * Use of Lombok
+
  #
-### 2.   Entity Relationship Diagram (ERD) of the BSA
+### 3.   Entity Relationship Diagram (ERD) of the BSA
 * Conceptual ERD Drawn using Lucidchart <br>
   Conceptual ERD1 <br> 
 <img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
