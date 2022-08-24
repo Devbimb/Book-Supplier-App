@@ -165,7 +165,21 @@ Logical ERD2 <br>
 * Read supplier record by id from "supplier table"
 * Read supplier record by Name from "supplier table"
 * Read supplier record by Phone from "supplier table"
-* login
+* Login with username and password
+
+#
+### 10.   Tools and Technology Used
+* Spring Boot (Spring Tool Suite, sts-4.15.1.RELEASE)
+* JDK - 1.8
+* Hibernate
+* Maven
+* IDE - Eclipse
+* Tomcat
+* JQuery
+* MySQL 
+* Wokbench 8.0 CE
+* Git
+* GitHub
 
 #
  ###  _Reference_<br>
