@@ -149,4 +149,4 @@ Logical ERD2 <br>
   * 2. ERD (metabase.com)
   *    https://www.metabase.com/glossary/erd
   * 3. What is Entity Relationship Diagram (ERD)? (visual-paradigm.com)
-  *    https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship- diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1
+  *    https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1
