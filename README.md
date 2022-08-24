@@ -72,9 +72,12 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * Researchiing more into book management systems
    
  * Screenshots showing postman requests and the output from the API <br>   
- * Screenshots of your database to prove that data is being persisted
- * Screenshot of your test results, including coverage report
- * Link to Jira Board
-   
+   This is as shown in section 12 of the contents.<br>
+ * Screenshots of Database to prove that data is being persisted <br>
+   This is as shown in section 9 of the contents<br>
+ * Screenshot of your test results<br>
+   This is as shown in section 13 of the contents<br>
+ * Link to Jira Board<br>
+   Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
  
   
