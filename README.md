@@ -85,6 +85,8 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
 * Conceptual ERD Drawn using Lucidchart <br>
   Conceptual ERD1 <br> 
 <img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
-
-    Conceptual ERD2 <br> 
+  Conceptual ERD2 <br> 
 <img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> <br>
+* Logical ERD Drawn using Lucidchart <br>
+  Logical ERD1 <br> 
+<img src="BookSupApScreenshot/Logical ERD of BSMS1.jpg"> <br>
