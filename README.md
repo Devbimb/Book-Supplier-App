@@ -171,10 +171,10 @@ Logical ERD2 <br>
 ### 10.   Tools and Technology Used
 * Spring Boot (Spring Tool Suite, sts-4.15.1.RELEASE)
 * JDK - 1.8
-* Hibernate
+* Spring Data (Hibernatec & MySQL)
 * Maven
 * IDE - Eclipse
-* Tomcat
+* Spring MVC (Tomcat) 
 * JQuery
 * MySQL 
 * Wokbench 8.0 CE
@@ -185,6 +185,9 @@ Logical ERD2 <br>
 
 #
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
+* Database Configuration using MySQL <br>
+  MySQL database was created in Worbench 8.0 with the name "booksupap" and this was to appication.properties under resources in sts-4.15.1.
+  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
 
 #
 ### 13.   API Development (Spring Boot Project Structure)
