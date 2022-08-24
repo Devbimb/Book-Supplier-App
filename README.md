@@ -62,7 +62,7 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * More depth and detail of the two entities implemented
    * Full implementation in agile framework
  
- * Improvements for future revisions of the project <br>   
+ * Improvements for Future Revisions of the Project <br>   
    * more depth of analysis and detail for some of other entities
    * improvement on the structure of the project
    * improvement on the structure of the report
@@ -71,11 +71,11 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * More hands on coding skills
    * Researchiing more into book management systems
    
- * Screenshots showing postman requests and the output from the API<br>
+ * Screenshots showing Postman Requests and the Output from the API<br>
    This is as shown in section 12 of the contents<br>
- * Screenshots of Database to prove that data is being persisted<br>
+ * Screenshots of Database to Prove that data is being Persisted<br>
    This is as shown in section 9 of the contents<br>  
- * Screenshot of your test results<br>
+ * Screenshot of Test Results<br>
    This is as shown in section 13 of the contents<br>
  * Link to Jira Board<br>
    Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
