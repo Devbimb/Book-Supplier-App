@@ -199,9 +199,9 @@ Logical ERD2 <br>
 * Spring Boot Application set up to perform CRUD Operation form sts-4.15.1. <br>
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
  <div />
+ <div />
 
 * Project Structure in Spring Boot <br>
- <div />
  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
