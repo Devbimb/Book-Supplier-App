@@ -36,3 +36,4 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
   * eliminating delays in book supply to library, schools etc
   * efficiency in seraching for books
   * reduction of cubersome of maintaining several documents
+  * overall reduction of operating cost and time spent.
