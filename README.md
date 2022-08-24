@@ -147,7 +147,16 @@ Logical ERD2 <br>
 ### 8.   ERD of the BSA Area of Concentration
 * ERD derived from MySQL Workbence with DTO <br>
   <img src="BookSupApScreenshot/Db connection diagram with DTO 2.jpg"> <br>
-  
+#
+### 9.   App Features <br>
+* Book table
+* Supplier Table
+* login
+* Create table
+* Read table
+* Update table
+* Delete from table
+* 
 #
  ###  _Reference_<br>
   1. New Messages! (lucidchart.com) <br>
