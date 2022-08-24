@@ -197,13 +197,17 @@ Logical ERD2 <br>
   
 #
 ### 13.   API Development (Spring Boot Project Structure)
+* Spring Boot Application set up to perform CRUD Operation form sts-4.15.1. <br>
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
 #
 ### 14.   Database Configuration
 
 #
 ### 15.   The Postman CRUD Execution
-
+POST: Creates a new resource
+GET: Reads a resource
+PUT: Updates an existing resource
+DELETE: Deletes a resource
 #
 ### 16.   Automated Testing (JUnit, Mockito)
 
