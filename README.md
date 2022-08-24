@@ -145,8 +145,8 @@ Logical ERD2 <br>
 
    _Reference_<br>
   1 New Messages! (lucidchart.com) <br>
-     https://www.lucidchart.com/pages/er-diagrams
+     https://www.lucidchart.com/pages/er-diagrams <br>
   2 ERD (metabase.com) <br>
-     https://www.metabase.com/glossary/erd
+     https://www.metabase.com/glossary/erd <br>
   3 What is Entity Relationship Diagram (ERD)? (visual-paradigm.com) <br>
-     https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1
+     https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1 <br>
