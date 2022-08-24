@@ -213,7 +213,8 @@ Logical ERD2 <br>
 * **Read** book record by **id** from "book table" using **"GET"** in Postman
 * **Read** book record by **Name** from "book table" using **"GET"** in Postman
 * **Read** book record by **Quantity** from "book table" using **"GET"** in Postman
- <div />
+
+ 
 #### Supplier Table
 * **Create** new record of supplier on "supplier table" using **"POST"** in Postman
 * **Read** all suppliers from "supplier table" using **"GET"** in Postman
