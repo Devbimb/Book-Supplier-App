@@ -149,14 +149,24 @@ Logical ERD2 <br>
   <img src="BookSupApScreenshot/Db connection diagram with DTO 2.jpg"> <br>
 #
 ### 9.   App Features <br>
-* Book table
-* Supplier Table
+#### Book table
+* **Create** new record of book on "book table"
+* **Read** all books from "book table"
+* **Update** book record by id on "book table"
+* **Delete** record of book by id from "book table"
+* Read book record by id from "book table"
+* Read book record by Name from "book table"
+* Read book record by Quantity from "book table"
+#### Supplier Table
+* **Create** new record of supplier on "supplier table"
+* **Read** all suppliers from "supplier table"
+* **Update** supplier record by id on "supplier table"
+* **Delete** record of supplier by id from "supplier table"
+* Read supplier record by id from "supplier table"
+* Read supplier record by Name from "supplier table"
+* Read supplier record by Quantity from "supplier table"
 * login
-* Create table
-* Read table
-* Update table
-* Delete from table
-* 
+
 #
  ###  _Reference_<br>
   1. New Messages! (lucidchart.com) <br>
