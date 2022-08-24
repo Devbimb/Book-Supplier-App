@@ -180,6 +180,36 @@ Logical ERD2 <br>
 * Wokbench 8.0 CE
 * Git
 * GitHub
+#
+### 11.   Agile & Project Management (Git, Jira)
+
+#
+### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
+
+#
+### 13.   API Development (Spring Boot Project Structure)
+
+#
+### 14.   Database Configuration
+
+#
+### 15.   The Postman CRUD Execution
+
+#
+### 16.   Automated Testing (JUnit, Mockito)
+
+#
+### 17.   Installation
+
+#
+### 18.   Conclusions
+
+#
+### 19.   Recommendations
+
+#
+### 20.   Future Work 
+
 
 #
  ###  _Reference_<br>
