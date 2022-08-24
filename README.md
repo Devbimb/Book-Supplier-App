@@ -157,4 +157,6 @@ Logical ERD2 <br>
   3. What is Entity Relationship Diagram (ERD)? (visual-paradigm.com) <br>
      https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1 <br>
   4. https://www.lovelycoding.org/book-store-management-system/
+  5. https://qa-community.co.uk/~/_/learning/springboot/spring--spring-setup)
+  6. 
   
