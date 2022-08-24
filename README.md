@@ -18,13 +18,12 @@
 11.   Agile & Project Management (Git, Jira)
 12.   Databases & Cloud Fundamentals (MySQL Configuration)
 13.   API Development (Spring Boot Project Structure)
-14.   Database Configuration
-15.   The Postman CRUD Execution
-16.   Automated Testing (JUnit, Mockito)
-17.   Installation
-18.   Conclusions
-19.   Recommendations
-20.   Future Work <br>
+14.   The Postman CRUD Execution
+15.   Automated Testing (JUnit, Mockito)
+16.   Installation
+17.   Conclusions
+18.   Recommendations
+19.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
@@ -199,29 +198,29 @@ Logical ERD2 <br>
 ### 13.   API Development (Spring Boot Project Structure)
 * Spring Boot Application set up to perform CRUD Operation form sts-4.15.1. <br>
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
-#
-### 14.   Database Configuration
 
+* Project Structure in Spring Boot <br>
+ <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
 #
-### 15.   The Postman CRUD Execution
+### 14.   The Postman CRUD Execution
 POST: Creates a new resource
 GET: Reads a resource
 PUT: Updates an existing resource
 DELETE: Deletes a resource
 #
-### 16.   Automated Testing (JUnit, Mockito)
+### 15.   Automated Testing (JUnit, Mockito)
 
 #
-### 17.   Installation
+### 16.   Installation
 
 #
-### 18.   Conclusions
+### 17.   Conclusions
 
 #
-### 19.   Recommendations
+### 18.   Recommendations
 
 #
-### 20.   Future Work 
+### 19.   Future Work 
 
 #
 ### _Acknowledgement_<br>
