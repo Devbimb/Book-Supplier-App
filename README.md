@@ -198,6 +198,7 @@ Logical ERD2 <br>
 ### 13.   API Development (Spring Boot Project Structure)
 * Spring Boot Application set up to perform CRUD Operation form sts-4.15.1. <br>
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
+ <div />
 
 * Project Structure in Spring Boot <br>
  <div />
