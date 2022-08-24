@@ -32,7 +32,7 @@ _This app allows book suppliers to manage their books. It will allow suppliers t
 ### Abstract
 _This app was created using a **Spring Boot API**, with utilization of supporting tools, methodologies, and technologies that encapsulate an application of back-end developed using **Java** Programming Fundamentals, a managed database **(MySQL)** hosted locally on **Port 8086**, a means of making API Calls using **Postman** and a means of checking persistence using **Workbench 8.0 console**. The whole concept of this project is as detailed in **Entity Relationship Diagram (ERD)** presented here, but due to time constraints and for the purpose of fulfilling the Software Developement Training, only two entities are our focus, that is, Employee **(Supplier)** and Resources **(Book)**.  Since, we are implementing in **Agile environment**, the project would be updated with other features in the future work._   
 #
-### Documentation
+### 1.   Documentation
 * Why Book Supplier App <br>
   The motivation for building this App stems from:
   * minimizing time spent on maintaining record of books and customer needs
@@ -71,7 +71,10 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * More hands on coding skills
    * Researchiing more into book management systems
    
- * Improvements for future revisions of the project <br>   
+ * Screenshots showing postman requests and the output from the API <br>   
+ * Screenshots of your database to prove that data is being persisted
+ * Screenshot of your test results, including coverage report
+ * Link to Jira Board
    
  
   
