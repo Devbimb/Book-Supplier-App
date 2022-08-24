@@ -83,7 +83,7 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
  #
 ### 2.   Entity Relationship Diagram (ERD) of the BSA
 * Conceptual ERD Drawn using Lucidchart <br>
-  * Conceptual ERD1 <br> 
+  Conceptual ERD1 <br> 
 <img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
 
   
