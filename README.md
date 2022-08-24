@@ -153,7 +153,7 @@ Logical ERD2 <br>
 * **C**reate new record of book on "book table"
 * **R**ead all books from "book table"
 * **U**pdate book record by id on "book table"
-* ****D**elete record of book by id from "book table"
+* **D**elete record of book by id from "book table"
 * Read book record by id from "book table"
 * Read book record by Name from "book table"
 * Read book record by Quantity from "book table"
