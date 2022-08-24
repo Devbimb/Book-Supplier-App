@@ -2,11 +2,11 @@
 
 ### Ayeni Abimbola 
 
-## Contents
-* Overview
-* Abstract
-* Documentation
-* Deliverables
+## Contents <br>
+   _Overview_
+   _Abstract_
+1. Documentation
+2. Deliverables
 * Entity Relationship Diagram (ERD) of the BSA
 * Limitations
 * ERD of the BSA Area of Concentration
@@ -70,7 +70,8 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * Project excution in DevOps and Agile enviroments
    * More hands on coding skills
    * Researchiing more into book management systems
-    
-    
+   
+ * Improvements for future revisions of the project <br>   
+   
  
   
