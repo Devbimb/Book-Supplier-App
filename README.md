@@ -188,7 +188,13 @@ Logical ERD2 <br>
 * Database Configuration using MySQL <br>
   MySQL database was created in Worbench 8.0 with the name "booksupapp" and this was added to appication.properties under resources in sts-4.15.1.
   <img src="BookSupApScreenshot/application properties.jpg"> <br>
-
+  
+* Book Entity Database Table from Workbench <br>
+  <img src="BookSupApScreenshot/Mysql Workbench Database Book Table.jpg"> <br>
+  
+* Supplier Entity Database Table from Workbench <br>
+  <img src="BookSupApScreenshot/Mysql Workbench Database Supplier Table.jpg"> <br>
+  
 #
 ### 13.   API Development (Spring Boot Project Structure)
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
