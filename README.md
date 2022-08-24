@@ -200,6 +200,7 @@ Logical ERD2 <br>
  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
 
 * Project Structure in Spring Boot <br>
+ <div />
  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
