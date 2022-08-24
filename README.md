@@ -146,7 +146,7 @@ Logical ERD2 <br>
 #
 ### 8.   ERD of the BSA Area of Concentration
 * ERD derived from MySQL Workbence with DTO <br>
-  <img src="BookSupApScreenshot/Db connection diagram with DTO.jpg"> <br>
+  <img src="BookSupApScreenshot/Db connection diagram with DTO2.jpg"> <br>
   
 #
  ###  _Reference_<br>
