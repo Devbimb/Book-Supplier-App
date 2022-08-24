@@ -122,8 +122,8 @@ The scope of this project at the time of submission is limted to just two functi
 #
 ### 5.   Aim and Objectives of the Project
 The aim of this project is to develop a unique Application for suppliers for book management through the listed objective:
-*  Development in Agile environment
-*  Database creation
+*  Development in Agile environment (GitHub, Jira)
+*  Database creation (MySQL)
 *  coding using Java
 *  API development using Spring Boot
-*  Automated Testing
+*  Automated Testing (JUnit, Mockito)
