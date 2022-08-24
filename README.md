@@ -150,18 +150,18 @@ Logical ERD2 <br>
 #
 ### 9.   App Features <br>
 #### Book table
-* **Create** new record of book on "book table"
-* **Read** all books from "book table"
-* **Update** book record by id on "book table"
-* **Delete** record of book by id from "book table"
+* **C**reate new record of book on "book table"
+* **R**ead all books from "book table"
+* **U**pdate book record by id on "book table"
+* ****D**elete record of book by id from "book table"
 * Read book record by id from "book table"
 * Read book record by Name from "book table"
 * Read book record by Quantity from "book table"
 #### Supplier Table
-* **Create** new record of supplier on "supplier table"
-* **Read** all suppliers from "supplier table"
-* **Update** supplier record by id on "supplier table"
-* **Delete** record of supplier by id from "supplier table"
+* **C**reate new record of supplier on "supplier table"
+* **R**ead all suppliers from "supplier table"
+* **U**pdate supplier record by id on "supplier table"
+* **D**elete record of supplier by id from "supplier table"
 * Read supplier record by id from "supplier table"
 * Read supplier record by Name from "supplier table"
 * Read supplier record by Quantity from "supplier table"
