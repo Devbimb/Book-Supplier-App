@@ -205,15 +205,31 @@ Logical ERD2 <br>
  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
-POST: Creates a new resource
-GET: Reads a resource
-PUT: Updates an existing resource
-DELETE: Deletes a resource
+#### Book table
+* **Create** new record of book on "book table" using **"POST"** in Postman
+* **Read** all books from "book table" using **"GET"** in Postman
+* **Update** book record by **id** on "book table" using **"UPDATES"** in Postman
+* **Delete** record of book by **id** from "book table" using **"DELETE"** in Postman
+* **Read** book record by **id** from "book table" using **"GET"** in Postman
+* **Read** book record by **Name** from "book table" using **"GET"** in Postman
+* **Read** book record by **Quantity** from "book table" using **"GET"** in Postman
+ <div />
+#### Supplier Table
+* **Create** new record of supplier on "supplier table" using **"POST"** in Postman
+* **Read** all suppliers from "supplier table" using **"GET"** in Postman
+* **Update** supplier record by id on "supplier table" using **"UPDATES"** in Postman
+* **Delete** record of supplier by **id** from "supplier table" using **"DELETE"** in Postman
+* **Read** supplier record by **id** from "supplier table" using **"GET"** in Postman
+* **Read** supplier record by **Name** from "supplier table" using **"GET"** in Postman
+* **Read** supplier record by **Phone** from "supplier table" using **"GET"** in Postman
+* **Login** with **username** and **password** using **"GET"** in Postman
+
 #
 ### 15.   Automated Testing (JUnit, Mockito)
 
 #
 ### 16.   Installation
+Run the project through the IDE or run: **mvn spring-boot:run** command in the command line and head out to Postman to check the REST endpoints.
 
 #
 ### 17.   Conclusions
