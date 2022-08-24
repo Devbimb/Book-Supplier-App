@@ -187,11 +187,11 @@ Logical ERD2 <br>
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
 * Database Configuration using MySQL <br>
   MySQL database was created in Worbench 8.0 with the name "booksupapp" and this was added to appication.properties under resources in sts-4.15.1.
-  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
+  <img src="BookSupApScreenshot/application properties.jpg"> <br>
 
 #
 ### 13.   API Development (Spring Boot Project Structure)
- <img src="BookSupApScreenshot/application properties.jpg"> <br>
+ <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
 #
 ### 14.   Database Configuration
 
