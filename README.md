@@ -9,11 +9,12 @@
  2.   Deliverables
  3.   Entity Relationship Diagram (ERD) of the BSA
  4.   Scope and Limitations of the Project
- 5.   ERD of the BSA Area of Concentration
- 6.   App Features
- 7.   Tools and Technology Used
- 8.   Agile & Project Management (Git, Jira)
- 9.   Databases & Cloud Fundamentals (MySQL Configuration)
+ 5.   Aim and Objectives of the Project
+ 6.   ERD of the BSA Area of Concentration
+ 7.   App Features
+ 8.   Tools and Technology Used
+ 9.   Agile & Project Management (Git, Jira)
+ 10.   Databases & Cloud Fundamentals (MySQL Configuration)
 10.   API Development (Spring Boot Project Structure)
 11.   Database Configuration
 12.   The Postman CRUD Execution
@@ -117,3 +118,12 @@ Logical ERD2 <br>
  #
 ### 4. Scope and Limitations of the Project
 The scope of this project at the time of submission is limted to just two functionalities.  The          development to optimize the full functionalties of this app is a continous process.   At this            stage, the most importantant limitations lies in the fact that the level of obtainable result is        far below other apps in existence because of the limited number of available features. 
+
+#
+### 5.   Aim and Objectives of the Project
+The aim of this project is to develop a unique Application for suppliers for book management through the listed objective:
+*  Development in Agile environment
+*  Database creation
+*  coding using Java
+*  API development using Spring Boot
+*  Automated Testing
