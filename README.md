@@ -8,7 +8,7 @@
  1.   Documentation
  2.   Deliverables
  3.   Entity Relationship Diagram (ERD) of the BSA
- 4.   Sco[e and Limitations
+ 4.   Scope and Limitations of the Project
  5.   ERD of the BSA Area of Concentration
  6.   App Features
  7.   Tools and Technology Used
@@ -116,4 +116,4 @@ Logical ERD2 <br>
 
  #
 ### 4.   Scope and Limitations of the Project
-   This app is limited to just two functionalities.
+   The scope of this project at the time of submission is limted to just two functionalities.  The development to optimize the full functionalties of this app is a continous process.  At this stage, the most importantant limitations lies in the fact that the level of obtainable result is far below other apps in existence because of the limited number of available features. 
