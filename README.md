@@ -84,6 +84,6 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
 ### 2.   Entity Relationship Diagram (ERD) of the BSA
 #### Conceptual ERD of BookshopLib Drawn using Lucidchart
 #####Conceptual ERD1
-#### Service layer unit tests: User <br> <img width = 600 src=.md/BookSupApScreenshot/conceptual ERD of BSMS1.jpg> <br>
+#### Service layer unit tests: User <br> <img width = 600 src=/BookSupApScreenshot/conceptual ERD of BSMS1.jpg> <br>
 
   
