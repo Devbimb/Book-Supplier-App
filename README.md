@@ -164,7 +164,7 @@ Logical ERD2 <br>
 * **D**elete record of supplier by id from "supplier table"
 * Read supplier record by id from "supplier table"
 * Read supplier record by Name from "supplier table"
-* Read supplier record by Quantity from "supplier table"
+* Read supplier record by Phone from "supplier table"
 * login
 
 #
