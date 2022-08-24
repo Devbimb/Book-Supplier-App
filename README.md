@@ -12,19 +12,19 @@
  5.   Significance of the Project
  6.   Deliverables
  7.   Entity Relationship Diagram (ERD) of the BSA
- 10.   ERD of the BSA Area of Concentration
- 11.   App Features
- 12.   Tools and Technology Used
- 13.   Agile & Project Management (Git, Jira)
- 14.   Databases & Cloud Fundamentals (MySQL Configuration)
-10.   API Development (Spring Boot Project Structure)
-11.   Database Configuration
-12.   The Postman CRUD Execution
-13.   Automated Testing (JUnit, Mockito)
-14.   Installation
-15.   Conclusions
-16.   Recommendations
-17.   Future Work <br>
+ 8.   ERD of the BSA Area of Concentration
+ 9.   App Features
+10.   Tools and Technology Used
+11.   Agile & Project Management (Git, Jira)
+12.   Databases & Cloud Fundamentals (MySQL Configuration)
+13.   API Development (Spring Boot Project Structure)
+14.   Database Configuration
+15.   The Postman CRUD Execution
+16.   Automated Testing (JUnit, Mockito)
+17.   Installation
+18.   Conclusions
+19.   Recommendations
+20.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
@@ -143,3 +143,10 @@ The aim of this project is to develop a unique Application for suppliers to mana
 Logical ERD2 <br> 
 <img src="BookSupApScreenshot/Logical ERD of BSMS2.jpg"> <br>
 
+   _Reference_<br>
+  * 1. New Messages! (lucidchart.com)
+  *    https://www.lucidchart.com/pages/er-diagrams
+  * 2. ERD (metabase.com)
+  *    https://www.metabase.com/glossary/erd
+  * 3. What is Entity Relationship Diagram (ERD)? (visual-paradigm.com)
+  *    https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship- diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1
