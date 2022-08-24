@@ -8,7 +8,7 @@
  1.   Documentation
  2.   Deliverables
  3.   Entity Relationship Diagram (ERD) of the BSA
- 4.   Limitations
+ 4.   Sco[e and Limitations
  5.   ERD of the BSA Area of Concentration
  6.   App Features
  7.   Tools and Technology Used
@@ -114,3 +114,6 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
 Logical ERD2 <br> 
 <img src="BookSupApScreenshot/Logical ERD of BSMS2.jpg"> <br>
 
+ #
+### 4.   Scope and Limitations of the Project
+   This app is limited to just two functionalities.
