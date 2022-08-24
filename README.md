@@ -37,3 +37,7 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
   * efficiency in seraching for books
   * reduction of cubersome of maintaining several documents
   * overall reduction of operating cost and time spent.
+ 
+ * Expectation of the Project <br>
+   There are several entities required to complete the functionality of this system with the expectation    of making it avalaible to the appropriate stakeholders.
+ 
