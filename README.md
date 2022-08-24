@@ -146,8 +146,76 @@ Logical ERD2 <br>
 #
 ### 8.   ERD of the BSA Area of Concentration
 * ERD derived from MySQL Workbence with DTO <br>
-  <img src="BookSupApScreenshot/Db connection diagram with DTO2.jpg"> <br>
-  
+  <img src="BookSupApScreenshot/Db connection diagram with DTO 2.jpg"> <br>
+#
+### 9.   App Features <br>
+#### Book table
+* **C**reate new record of book on "book table"
+* **R**ead all books from "book table"
+* **U**pdate book record by id on "book table"
+* **D**elete record of book by id from "book table"
+* Read book record by id from "book table"
+* Read book record by Name from "book table"
+* Read book record by Quantity from "book table"
+#### Supplier Table
+* **C**reate new record of supplier on "supplier table"
+* **R**ead all suppliers from "supplier table"
+* **U**pdate supplier record by id on "supplier table"
+* **D**elete record of supplier by id from "supplier table"
+* Read supplier record by id from "supplier table"
+* Read supplier record by Name from "supplier table"
+* Read supplier record by Phone from "supplier table"
+* Login with username and password
+
+#
+### 10.   Tools and Technology Used
+* Spring Boot (Spring Tool Suite, sts-4.15.1.RELEASE)
+* JDK - 1.8
+* Spring Data (Hibernatec & MySQL)
+* Maven
+* IDE - Eclipse
+* Spring MVC (Tomcat) 
+* JQuery
+* MySQL 
+* Wokbench 8.0 CE
+* Git
+* GitHub
+#
+### 11.   Agile & Project Management (Git, Jira)
+
+#
+### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
+* Database Configuration using MySQL <br>
+  MySQL database was created in Worbench 8.0 with the name "booksupap" and this was to appication.properties under resources in sts-4.15.1.
+  <img src="BookSupApScreenshot/SpringBootConfig.jpg"> <br>
+
+#
+### 13.   API Development (Spring Boot Project Structure)
+
+#
+### 14.   Database Configuration
+
+#
+### 15.   The Postman CRUD Execution
+
+#
+### 16.   Automated Testing (JUnit, Mockito)
+
+#
+### 17.   Installation
+
+#
+### 18.   Conclusions
+
+#
+### 19.   Recommendations
+
+#
+### 20.   Future Work 
+
+#
+### _Acknowledgement_<br>
+
 #
  ###  _Reference_<br>
   1. New Messages! (lucidchart.com) <br>
@@ -157,4 +225,6 @@ Logical ERD2 <br>
   3. What is Entity Relationship Diagram (ERD)? (visual-paradigm.com) <br>
      https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/;WWWSESSIONID=0E27173623D3BB3B4DE53C3D5F532DFF.www1 <br>
   4. https://www.lovelycoding.org/book-store-management-system/
+  5. https://qa-community.co.uk/~/_/learning/springboot/spring--spring-setup)
+  6. 
   
