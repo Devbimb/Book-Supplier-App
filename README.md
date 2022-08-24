@@ -85,6 +85,6 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
 #### Conceptual ERD of BookshopLib Drawn using Lucidchart
 * Conceptual ERD1 <br>
 <div />
-<img src = "conceptual ERD of BSMS1.jpg" <br>
+<img src = "BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
 
   
