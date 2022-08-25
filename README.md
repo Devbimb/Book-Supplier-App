@@ -203,10 +203,16 @@ Logical ERD2 <br>
  <div />
 
 * Project Structure in Spring Boot <br>
- <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
+  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
+ 
+* Spring Boot run as Maven install build success to get .war file<br>
+  <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
+  
+* Spring Boot .war file in /target/surefire reports folder after running as Maven install <br>
+  <img src="BookSupApScreenshot/BBuild Success WAR file in surefire reports after running Maven Install from sts- 4.15.1..jpg"> <br>
  
 * Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
- <img src="BookSupApScreenshot/Project Structure 2.jpg"> <br>
+  <img src="BookSupApScreenshot/Project Structure 2.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
 #### Book table
