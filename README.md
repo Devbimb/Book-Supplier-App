@@ -208,7 +208,7 @@ Logical ERD2 <br>
 * Spring Boot run as Maven install build success to get .war file<br>
   <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
   
-* Spring Boot .war file in /target/surefire reports folder after running as Maven install <br>
+* Spring Boot .war file in target in surefire reports folder after running as Maven install <br>
   <img src="BookSupApScreenshot/Build Success WAR file in surefire reports after running Maven Install from sts- 4.15.1.jpg"> <br>
  
 * Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
