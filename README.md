@@ -205,7 +205,7 @@ Logical ERD2 <br>
 * Project Structure in Spring Boot <br>
   <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
  
-* Spring .war file in target <br>
+* Spring war file in target <br>
   <img src="BookSupApScreenshot/war file in surefire reports.jepg"> <br>
  
 * Spring Boot run as Maven install build success to get .war file<br>
