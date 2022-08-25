@@ -21,9 +21,10 @@
 14.   The Postman CRUD Execution
 15.   Automated Testing (JUnit, Mockito)
 16.   Installation
-17.   Conclusions
-18.   Recommendations
-19.   Future Work <br>
+17.   Instructions for the Execution of the Project
+18.   Conclusions
+19.   Recommendations
+20.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
@@ -32,7 +33,7 @@
 _This app allows book suppliers to manage their books. It will allow suppliers to login and get information about request to supply book to library, schools, company and individual._ A fully fledged Spring Boot application showcasing the basic CRUD operations.
 #
 ### Abstract
-_This app was created using a **Spring Boot API**, with utilization of supporting tools, methodologies, and technologies that encapsulate an application of back-end developed using **Java** Programming Fundamentals, a managed database **(MySQL)** hosted locally on **Port 8086**, a means of making API Calls using **Postman** and a means of checking persistence using **Workbench 8.0 console**. The whole concept of this project is as detailed in **Entity Relationship Diagram (ERD)** presented here, but due to time constraints and for the purpose of fulfilling the Software Developement Training, only two entities are our focus, that is, Employee **(Supplier)** and Resources **(Book)**.  Since, we are implementing in **Agile environment**, the project would be updated with other features in the future work._   
+_This app was created using a **Spring Boot API**, with utilization of supporting tools, methodologies, and technologies that encapsulate an application of back-end developed using **Java** Programming Fundamentals, a managed database **(MySQL)** hosted locally on **Port 8086**, a means of making API Calls using **Postman** and a means of checking persistence using **Workbench 8.0 console**. The whole concept of this project is as detailed in **Entity Relationship Diagram (ERD)** presented here, but due to time constraints and for the purpose of fulfilling the Software Developement Training, only two entities are our focus, that is, Employee **(Supplier)** and Resources **(Book)** and there is no front end available for data input. Since, we are implementing in **Agile environment**, the project would be updated with other features in the future work._   
 #
 ### 1.   Documentation
 * Why Book Supplier App <br>
@@ -231,28 +232,28 @@ Logical ERD2 <br>
 #### Supplier Table
 * **Create** new record of supplier on "supplier table" using **"POST"** in Postman
   <img src="BookSupApScreenshot/Create Supplier entity using POST in postman _response 1.jpg"> <br>
-<br>
+
 * **Read** all suppliers from "supplier table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read Supplier entity b4 DELETING using GET in postman _response.jpg"> <br>
-<br>
+
 * **Update** supplier record by id on "supplier table" using **"PUT"** in Postman
   <img src="BookSupApScreenshot/Upadated Supplier entity using PUT in postman _response.jpg"> <br>
-<br>
+
 * **Delete** record of supplier by **id = 3** from "supplier table" using **"DELETE"** in Postman
   <img src="BookSupApScreenshot/Delete SUPPLIER entity using Delete in postman_Response.jpg"> <br>
-<br>
+
 * **Read** all suppliers from "supplier table" using **"GET"** in Postman after deleting **id = 3** from "supplier table"
   <img src="BookSupApScreenshot/reading Supplier after deleted record id 3 from Supplier_response.jpg"> <br>
-<br>
+
 * **Read** supplier record by **id** from "supplier table" using **"GET"** in Postman
 <img src="BookSupApScreenshot/Read supplier entity by Id using GET in postman _response.jpg"> <br>
-<br>
+
 * **Read** supplier record by **Name** from "supplier table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read supplier entity by Name using GET in postman _response.jpg"> <br>
-<br>
+
 * **Read** supplier record by **Phone** from "supplier table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read supplier entity by Phone using GET in postman _response.jpg"> <br>
-<br>
+
 * **Login** with **username** and **password** using **"GET"** in Postman
  
 #
@@ -264,27 +265,25 @@ Logical ERD2 <br>
   <img src="BookSupApScreenshot/Supplier Service Unit Test.jpg"> <br>
   
 #
-### 16.   Installation
-The project is created with Maven, so you just need to import it to your IDE and build the project to resolve the dependencies.
-
-### Usage
-Run the project through the IDE or run: **mvn spring-boot:run** command in the command line and head out to Postman to check the REST endpoints.
-
-### Instructions for executing project:
-* Ensure that port 8080 is free
-* Ensure Lombok is installed onto STS
-* Run project as Spring Boot App from project explorer
-* (currently) no front end is available for inputting data, so POSTMAN will have to be used with the http addresses assigned in the user and account controllers.
-
+### 16. Installation
+    The project is created with Maven, so just import into your IDE and build the project to resolve the dependencies.
 
 #
-### 17.   Conclusions
+### 17.  Instructions for the Execution of the Project
+* Lombok should be installed onto sts
+* Port 8086 Should free
+* Project should be run as Spring Boot App through the IDE from the project explorer or run: **mvn spring-boot:run** command in the command line
+* Then perform CRUD operations in Postman to check the REST endpoints using http addresses in "book Controller" and "Supplier Controller" since there is no front end for data input.
 
 #
-### 18.   Recommendations
+### 18.   Conclusions
+This Bank Management System will provide the transaction going inside the bank without manual processing. All information will be updated automatically by using the information stored in the system files.
+#
+### 19.   Recommendations
 
 #
-### 19.   Future Work 
+### 20.   Future Work 
+In the future I would like to provide functionality (such as interest rates and penalties for withdrawing money) from certain account types. I would like to add a front end to make logging in and CRUD operations much more user-friendly.
 
 #
 ### _Acknowledgement_<br>
@@ -300,4 +299,6 @@ Run the project through the IDE or run: **mvn spring-boot:run** command in the c
   4. https://www.lovelycoding.org/book-store-management-system/
   5. https://qa-community.co.uk/~/_/learning/springboot/spring--spring-setup)
   6. https://www.javatpoint.com/spring-boot-crud-operations
+  7. https://github.com/Seen-Been/simple-banking-app
+  8. https://github.com/vytautasdev/employee-management-app
   
