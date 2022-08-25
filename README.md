@@ -266,7 +266,7 @@ Logical ERD2 <br>
   
 #
 ### 16. Installation
-    The project is created with Maven, so just import into your IDE and build the project to resolve the dependencies.
+The project is created with Maven, so just import into your IDE and build the project to resolve the dependencies.
 
 #
 ### 17.  Instructions for the Execution of the Project
