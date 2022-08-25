@@ -207,18 +207,25 @@ Logical ERD2 <br>
 ### 14.   The Postman CRUD Execution
 #### Book table
 * **Create** new record of book on "book table" using **"POST"** in Postman
+  <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
 * **Read** all books from "book table" using **"GET"** in Postman
-* **Update** book record by **id** on "book table" using **"UPDATES"** in Postman
+  <img src="BookSupApScreenshot/Read book entity using get in postman_Response 2.jpg"> <br>
+* **Update** book record by **id** on "book table" using **"PUT"** in Postman
+  <img src="BookSupApScreenshot/Update book entity using PUT in postman_Response 2.jpg"> <br>
 * **Delete** record of book by **id** from "book table" using **"DELETE"** in Postman
+  <img src="BookSupApScreenshot/Delete book entity using Delete in postman_Response.jpg"> <br>
 * **Read** book record by **id** from "book table" using **"GET"** in Postman
+  <img src="BookSupApScreenshot/Read book entity by Id using get in postman _response 1.jpg"> <br>
 * **Read** book record by **Name** from "book table" using **"GET"** in Postman
+  <img src="BookSupApScreenshot/Read book entity by Name using GET in postman _response.jpg"> <br>
 * **Read** book record by **Quantity** from "book table" using **"GET"** in Postman
+  <img src="BookSupApScreenshot/Read book entity by Quantity using GET in postman _response 1.jpg"> <br>
 
  
 #### Supplier Table
 * **Create** new record of supplier on "supplier table" using **"POST"** in Postman
 * **Read** all suppliers from "supplier table" using **"GET"** in Postman
-* **Update** supplier record by id on "supplier table" using **"UPDATES"** in Postman
+* **Update** supplier record by id on "supplier table" using **"PUT"** in Postman
 * **Delete** record of supplier by **id** from "supplier table" using **"DELETE"** in Postman
 * **Read** supplier record by **id** from "supplier table" using **"GET"** in Postman
 * **Read** supplier record by **Name** from "supplier table" using **"GET"** in Postman
