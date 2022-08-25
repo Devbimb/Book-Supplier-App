@@ -253,8 +253,8 @@ Logical ERD2 <br>
 * **Read** supplier record by **Phone** from "supplier table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read supplier entity by Phone using GET in postman _response.jpg"> <br>
 
-* **Login** with **username** and **password** using **"GET"** in Postman
-  <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
+//* **Login** with **username** and **password** using **"GET"** in Postman
+ // <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
 
 #
 ### 15.   Automated Testing (JUnit, Mockito)
