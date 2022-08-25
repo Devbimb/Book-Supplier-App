@@ -283,7 +283,9 @@ This Bank Management System will provide the transaction going inside the bank w
 
 #
 ### 20.   Future Work 
-In the future I would like to provide functionality (such as interest rates and penalties for withdrawing money) from certain account types. I would like to add a front end to make logging in and CRUD operations much more user-friendly.
+* Provide more details of the two implemented functionalities 
+* Introduce new funcionaties such as Order, Services, Support, Author, Publishers and Member.  
+* Provide user-friendly CRUD and login operations via front end.
 
 #
 ### _Acknowledgement_<br>
@@ -301,4 +303,21 @@ In the future I would like to provide functionality (such as interest rates and 
   6. https://www.javatpoint.com/spring-boot-crud-operations
   7. https://github.com/Seen-Been/simple-banking-app
   8. https://github.com/vytautasdev/employee-management-app
+  9. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
+ 10. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
+  11. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
+  12. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
+  13. https://search.maven.org/search?q=g:junit%20AND%20a:junit
+  14. Appendix A. Common application properties (spring.io)
+  15. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
+Spring Initializr
+  16. https://start.spring.io
+  17. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
+  18. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
+  19. https://spring.io/projects/spring-boot
+  20. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+  21. Design Patterns - Adapter Pattern (tutorialspoint.com)
+  22. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
+
+
   
