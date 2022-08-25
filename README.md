@@ -253,12 +253,16 @@ Logical ERD2 <br>
 * **Read** supplier record by **Phone** from "supplier table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read supplier entity by Phone using GET in postman _response.jpg"> <br>
 
-//* **Login** with **username** and **password** using **"GET"** in Postman
- // <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
-
+* **Login** with **username** and **password** using **"GET"** in Postman
+ 
 #
 ### 15.   Automated Testing (JUnit, Mockito)
-
+* Book Service Unit Test
+  <img src="BookSupApScreenshot/Book Service Unit Test.jpg"> <br>
+  
+* Supplier Service Unit Test
+  <img src="BookSupApScreenshot/Supplier Service Unit Test.jpg"> <br>
+  
 #
 ### 16.   Installation
 Run the project through the IDE or run: **mvn spring-boot:run** command in the command line and head out to Postman to check the REST endpoints.
