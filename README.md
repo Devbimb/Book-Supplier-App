@@ -204,6 +204,9 @@ Logical ERD2 <br>
 
 * Project Structure in Spring Boot <br>
  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
+ 
+* Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
+ <img src="BookSupApScreenshot/Project Structure 2.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
 #### Book table
