@@ -209,6 +209,7 @@ Logical ERD2 <br>
 * **Create** new record of book on "book table" using **"POST"** in Postman
   <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
   <div />
+  <div />
 * **Read** all books from "book table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read book entity using get in postman_Response 2.jpg"> <br>
   <div />
