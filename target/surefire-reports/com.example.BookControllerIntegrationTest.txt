@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.example.BookControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 7.28 s <<< FAILURE! - in com.example.BookControllerIntegrationTest
+testReadAll  Time elapsed: 0.203 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.BookControllerIntegrationTest.testReadAll(BookControllerIntegrationTest.java:80)
+
+testReadOne  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<404>
+	at com.example.BookControllerIntegrationTest.testReadOne(BookControllerIntegrationTest.java:68)
+
+testCreate  Time elapsed: 0.039 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<404>
+	at com.example.BookControllerIntegrationTest.testCreate(BookControllerIntegrationTest.java:58)
+
+testDelete  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<204> but was:<404>
+	at com.example.BookControllerIntegrationTest.testDelete(BookControllerIntegrationTest.java:102)
+
+testUpdate  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<202> but was:<404>
+	at com.example.BookControllerIntegrationTest.testUpdate(BookControllerIntegrationTest.java:93)
+
