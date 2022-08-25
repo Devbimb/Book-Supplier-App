@@ -212,7 +212,7 @@ Logical ERD2 <br>
   <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
  
 * Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
-  <img src="BookSupApScreenshot/war file in surefire reports.jpg"> <br>
+  <img src="BookSupApScreenshot/war Project Structure 2.jpg"> <br>
 #
 ### 14.   The Postman CRUD Execution
 #### Book table
