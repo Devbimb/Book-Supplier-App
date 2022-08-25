@@ -281,6 +281,7 @@ With the successful completion of this project, the process of book and customer
 
 #
 ### 19.   Recommendations
+* In the future work, Web security should be included in the Spring Boot Application set.
 
 #
 ### 20.   Future Work 
