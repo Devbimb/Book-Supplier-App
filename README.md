@@ -1,6 +1,13 @@
 # Book-Supplier-App (BSA)
 
 ### Ayeni Abimbola 
+#### QA Software Development Trainee
+#### Project subimitted to QA 
+#### in partial fulfilment of the requirement for the completion of the training in Software Development.
+
+#### under the supervision of
+
+#### Upasana Dewangan
 
 ## Contents <br>
    _Overview_<br>
@@ -291,6 +298,7 @@ With the successful completion of this project, the process of book and customer
 #
 ### 19.   Recommendations
 * In the future work, Web security should be included in the Spring Boot Application set.
+* Feedback should be gotten from the user of the app for further improvement in  the future work
 
 #
 ### 20.   Future Work 
