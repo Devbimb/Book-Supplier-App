@@ -208,16 +208,22 @@ Logical ERD2 <br>
 #### Book table
 * **Create** new record of book on "book table" using **"POST"** in Postman
   <img src="BookSupApScreenshot/Create book entity using post in postman_response 2.jpg"> <br>
+  <div />
 * **Read** all books from "book table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read book entity using get in postman_Response 2.jpg"> <br>
+  <div />
 * **Update** book record by **id** on "book table" using **"PUT"** in Postman
   <img src="BookSupApScreenshot/Update book entity using PUT in postman_Response 2.jpg"> <br>
+  <div />
 * **Delete** record of book by **id** from "book table" using **"DELETE"** in Postman
   <img src="BookSupApScreenshot/Delete book entity using Delete in postman_Response.jpg"> <br>
+  <div />
 * **Read** book record by **id** from "book table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read book entity by Id using get in postman _response 1.jpg"> <br>
+  <div />
 * **Read** book record by **Name** from "book table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read book entity by Name using GET in postman _response.jpg"> <br>
+  <div />
 * **Read** book record by **Quantity** from "book table" using **"GET"** in Postman
   <img src="BookSupApScreenshot/Read book entity by Quantity using GET in postman _response 1.jpg"> <br>
 
