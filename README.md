@@ -9,6 +9,8 @@
 
 #### Upasana Dewangan
 
+#### August 15, 2022
+
 ## Contents <br>
    _Overview_<br>
    _Abstract_<br>
@@ -21,7 +23,7 @@
  7.   Entity Relationship Diagram (ERD) of the BSA
  8.   ERD of the BSA Area of Concentration
  9.   App Features
-10.   Tools and Technology Used
+10.   Application Tools and Technology Used
 11.   Agile & Project Management (Git, Jira)
 12.   Databases & Cloud Fundamentals (MySQL Configuration)
 13.   API Development (Spring Boot Project Structure)
@@ -175,7 +177,7 @@ Logical ERD2 <br>
 * Login with username and password
 
 #
-### 10.   Tools and Technology Used
+### 10.   Application Tools and Technology Used
 * Spring Boot (Spring Tool Suite, sts-4.15.1.RELEASE)
 * JDK - 1.8
 * Spring Data (Hibernatec & MySQL)
@@ -187,6 +189,7 @@ Logical ERD2 <br>
 * Wokbench 8.0 CE
 * Git
 * GitHub
+* Postman
 #
 ### 11.   Agile & Project Management (Git, Jira)
 
@@ -308,7 +311,8 @@ With the successful completion of this project, the process of book and customer
 
 #
 ### _Acknowledgement_<br>
-I am extremely grateful to my Java trainer, Upasana Dewangan for her patience, corrections and guidance throughout the completion of this project. My sincere and heartfelt appreciation goes to my other QA learning trainers, Joshua Chesterman and Pillerina Paal for their commitments towards my learning at QA.  I have learnt a lot from the sense of responsibility of QA Client Relationship Manager, Luke Brown,  an experience for me to grow on and motivation that I cannot attempt to do less. Thank you so much for always being there. A very huge thank you to my Agile Fundamentals and Jira trainer, Himanshu Jain. I am indeed very thankful to my DevOps and Git trainer, David Tomlinson. I still remember your word David, "Do something you love and you never have to work in your life". My appreciation also goes to my Network and Security trainer, Scott Hayes.  A huge thank you to Gary Mobey, my Linux trainer.  Thank you so much Mark Fitzgerald for teaching me Databases.   To Kofi Glover, thank you very much for taking me through Python.  My gratitude also goes to David Bedford for taking me through AZ-900: Microsoft Azure Fundamentals.  To my wonderful trainer in Soft Skill, Sarah Holroyd, thank you pretty much.  To all my colleagues during the training, Feroze Khan, Ashuit Khanna, Vytautas Gruodis, Konain Buhari, Thayaanithi Rasanikanth, Marwa Dawood, Imran Tanbir, Sean Heathcote, Benjamin Pienaar, Naomi Ajagun, Gifty Aning, Ludovico, Aijamal Jusupova and others.  Thank you all for your contributions and commitments. 
+Dear God! Thou art the most Rightful to be acknowledged.  I am extremely grateful to my Java trainer, Upasana Dewangan for her patience, corrections and guidance throughout the completion of this project. My sincere and heartfelt appreciation goes to my other QA learning trainers, Joshua Chesterman and Pillerina Paal for their commitments towards my learning at QA.  I have learnt a lot from the sense of responsibility of QA Client Relationship Manager, Luke Brown,  an experience for me to grow on and motivation that I cannot attempt to do less. Thank you so much for always being there. A very huge thank you to my Agile Fundamentals and Jira trainer, Himanshu Jain. I am indeed very thankful to my DevOps and Git trainer, David Tomlinson. I still remember your word David, "Do something you love and you never have to work in your life". My appreciation also goes to my Network and Security trainer, Scott Hayes.  A huge thank you to Gary Mobey, my Linux trainer.  Thank you so much Mark Fitzgerald for teaching me Databases.   To Kofi Glover, thank you very much for taking me through Python.  My gratitude also goes to David Bedford for taking me through AZ-900: Microsoft Azure Fundamentals.  To my wonderful trainer in Soft Skill, Sarah Holroyd, thank you pretty much.  To all my colleagues during the training, Feroze Khan, Ashuit Khanna, Vytautas Gruodis, Konain Buhari, Thayaanithi Rasanikanth, Marwa Dawood, Imran Tanbir, Sean Heathcote, Benjamin Pienaar, Naomi Ajagun, Gifty Aning, Ludovico, Aijamal Jusupova and others.  Thank you all for your contributions and commitments. To my precious children, thanks for your understanding.
+
 #
  ###  _Reference_<br>
   1. New Messages! (lucidchart.com) <br>
@@ -339,4 +343,4 @@ Spring Initializr
   22. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
 
-  
+  ####  …there is always more to learn but then, one day at a time!   
