@@ -257,10 +257,10 @@ Logical ERD2 <br>
  
 #
 ### 15.   Automated Testing (JUnit, Mockito)
-* Book Service Unit Test
+* Book Service Unit Test <br>
   <img src="BookSupApScreenshot/Book Service Unit Test.jpg"> <br>
   
-* Supplier Service Unit Test
+* Supplier Service Unit Test <br>
   <img src="BookSupApScreenshot/Supplier Service Unit Test.jpg"> <br>
   
 #
