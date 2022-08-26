@@ -190,10 +190,15 @@ Logical ERD2 <br>
 * Git
 * GitHub
 * Postman
+* Lucidchart
+
 #
 ### 11.   Agile & Project Management (Git, Jira)
-Book Entity Database Table from Workbench <br>
+
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
+  
+  Here's a link to the breakdown of the EPIC, Features and User Stories
+  [GitHub]:~$ok Supplier App Product Backlog A.M. Ayeni5
 
 #
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
