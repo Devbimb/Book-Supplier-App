@@ -198,7 +198,7 @@ Logical ERD2 <br>
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
   Here's a link to the breakdown of the EPIC, Features and User Stories
-  [GitHub]:~$ok Supplier App Product Backlog A.M. Ayeni5
+  [GitHub]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
 
 #
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
