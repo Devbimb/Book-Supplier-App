@@ -223,7 +223,7 @@ Logical ERD2 <br>
  <div />
 
 * Project Structure in Spring Boot <br>
-  <img src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
+  <img img width="600" src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
  
 * Spring war file in target <br>
   <img src="BookSupApScreenshot/warfile in surefire reports3.jpg"> <br>
