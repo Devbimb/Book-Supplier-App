@@ -197,7 +197,7 @@ Logical ERD2 <br>
 
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
-  Here's a link to the breakdown of the EPIC, Features and User Stories
+  Here's a link to the breakdown of the EPIC, Features and User Stories <br>
   [GitHub]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
 
 #
