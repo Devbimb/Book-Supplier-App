@@ -197,6 +197,9 @@ Logical ERD2 <br>
 
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
+  Some portion of the user stories and acceptance critarial created in excel<br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
+  
   Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
   [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
   
