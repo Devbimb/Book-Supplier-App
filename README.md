@@ -192,6 +192,8 @@ Logical ERD2 <br>
 * Postman
 #
 ### 11.   Agile & Project Management (Git, Jira)
+Book Entity Database Table from Workbench <br>
+  <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
 
 #
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
