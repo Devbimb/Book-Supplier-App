@@ -36,7 +36,8 @@ under the supervision of
 17.   Instructions for the Execution of the Project
 18.   Conclusions
 19.   Recommendations
-20.   Future Work <br>
+20.   Achievements
+21.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
@@ -57,17 +58,17 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
   * overall reduction of operating cost and time spent.
  
  * Expectation of the Project <br>
-   There are several entities required to complete the functionality of this system with the expectation    of making it avalaible to the appropriate stakeholders within a short period of time.
+   There are several entities required to complete the functionality of this system with the expectation of making it avalaible to the appropriate stakeholders within a short period of time.
  
  * What Went Well <br>
    * The work done showed my capability as at the time of executing this project.
    * Culmination of all the topics I have learnt as part of my training
    * The reports includes evidence of my understanding of the topics I have learnt and wider reading
    * Ability provision by qualified and experienced QA trainer, "Upasana", gave me the confidence
-   * The commitment given to help by my trainer, "Upasana", is a testimony to the success of this            project.
-   * Ongoing learning during the execution of the project is one of the of the things I really liked          about my project.
-   * The general support of the QA via access to QA Community and Cloud Academy has given me the              opportunity to always go back to learn whenever I am stucked.
-   * Also, I think what equally helped me was always asking questions in class whenever I lack                understanding of what we are doing.
+   * The commitment given to help by my trainer, "Upasana", is a testimony to the success of this project.
+   * Ongoing learning during the execution of the project is one of the of the things I really liked about my project.
+   * The general support of the QA via access to QA Community and Cloud Academy has given me the opportunity to always go back to learn whenever I am stucked.
+   * Also, I think what equally helped me was always asking questions in class whenever I lack understanding of what we are doing.
    * I think I did well in my conceptual design.  I thought, it was detailed and had good information.
    * Two entities have been coded and completed and the results have somewhat successful.
 
@@ -87,17 +88,17 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * Researchiing more into book management systems
    
  * Screenshots showing Postman Requests and the Output from the API<br>
-   This is as shown in section 12 of the contents<br>
+   This is as shown in section 14 of the contents<br>
  * Screenshots of Database to Prove that data is being Persisted<br>
-   This is as shown in section 9 of the contents<br>  
+   This is as shown in sections 8 and 12 of the contents<br>  
  * Screenshot of Test Results<br>
-   This is as shown in section 13 of the contents<br>
+   This is as shown in section 15 of the contents<br>
  * Link to Jira Board<br>
-   Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
+   Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the detailed is as shown in section 11 of the conents.
  
  #
 ### 2. Scope and Limitations of the Project
-The scope of this project at the time of submission is limted to just two functionalities.  The          development to optimize the full functionalties of this app is a continous process.   At this            stage, the most importantant limitations lies in the fact that the level of obtainable result is        far below other apps in existence because of the limited number of available features. 
+The scope of this project at the time of submission is limted to just two functionalities.  The development to optimize the full functionalties of this app is a continous process. At this stage, the most importantant limitations lies in the fact that the level of obtainable result is far below other apps in existence because of the limited number of available features. 
 
 #
 ### 3.   Aim and Objectives of the Project
@@ -159,6 +160,7 @@ Logical ERD2 <br>
 ### 8.   ERD of the BSA Area of Concentration
 * ERD derived from MySQL Workbence with DTO <br>
   <img src="BookSupApScreenshot/Db connection diagram with DTO 2.jpg"> <br>
+  The tables are linked together through "id"
 #
 ### 9.   App Features <br>
 #### Book table
@@ -200,17 +202,17 @@ Logical ERD2 <br>
 
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
-  Some portion of the user stories and acceptance critarial created in excel<br>
+  Here's a link to the word document of the **EPIC** and **Features** List <br>
+  [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/BookSuppAppEPIC&Featurelist26.08.22.doc)
+  
+  Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
   <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
   
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
-  [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
-  
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
+  Here's a link to the breakdown of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** in Microsof excel <br>
   https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/ProjectBookSupAppUserStories2.xls
   
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof Word <br>
-  [GitHub-link]:https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/Book Supplier App Product Backlog A.M. Ayeni5_2.doc
+  Here's a link to the breakdown of the **EPIC, Features** and **User Stories** in Microsof Word <br>
+  [GitHub-link]:https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/BookSupplierAppProductBacklogA.M.Ayeni5_3.doc
   
 #
 ### 12.   Databases & Cloud Fundamentals (MySQL Configuration)
@@ -322,7 +324,13 @@ With the successful completion of this project, the process of book and customer
 * In the future work, Web security should be included in the Spring Boot Application set.
 * Feedback should be gotten from the user of the app for further improvement in  the future work
 * Future work should include payment entity in its development
-
+#
+## 20.   Achievements
+* Built Java Back-end API in Spring Boot.  This Back-end-API has functinalities to:
+  * perform CRUD Operations in Postman
+  * carry out JUnit Test
+* Learnt to connect to Database using MySQL
+ 
 #
 ### 20.   Future Work 
 * Provide more details of the two implemented functionalities 
@@ -346,21 +354,25 @@ With the successful completion of this project, the process of book and customer
   6. https://www.javatpoint.com/spring-boot-crud-operations
   7. https://github.com/Seen-Been/simple-banking-app
   8. https://github.com/vytautasdev/employee-management-app
-  9. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
- 10. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
-  11. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
-  12. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
-  13. https://search.maven.org/search?q=g:junit%20AND%20a:junit
-  14. Appendix A. Common application properties (spring.io)
-  15. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
+  9. https://github.com/imranow/banking-application
+  10. https://github.com/Thayaanithi/book-management-app
+  11. https://github.com/akhanna2/employee-management-app
+  12. https://github.com/KonainB/airline-reservation-system
+  13. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
+  14. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
+  15. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
+  16. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
+  17. https://search.maven.org/search?q=g:junit%20AND%20a:junit
+  18. Appendix A. Common application properties (spring.io)
+  19. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
 Spring Initializr
-  16. https://start.spring.io
-  17. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
-  18. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
-  19. https://spring.io/projects/spring-boot
-  20. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
-  21. Design Patterns - Adapter Pattern (tutorialspoint.com)
-  22. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
+  20. https://start.spring.io
+  21. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
+  22. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
+  23. https://spring.io/projects/spring-boot
+  24. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+  25. Design Patterns - Adapter Pattern (tutorialspoint.com)
+  26. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
   #
   #  …there is always more to learn but then, one day at a time!   
