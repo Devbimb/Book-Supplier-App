@@ -38,8 +38,8 @@ under the supervision of
 19.   Recommendations
 20.   Achievements
 21.   Future Work <br>
-    _Acknowledgement_<br>
-    _Reference_<br>
+    _Acknowledgements_<br>
+    _References_<br>
 
 #
 ### Overview
@@ -344,11 +344,11 @@ With the successful completion of this project, the process of book and customer
 * Provide user-friendly CRUD and login operations via front end.
 
 #
-### _Acknowledgement_<br>
+### _Acknowledgements_<br>
 **Dear God!** Thou art the most Rightful to be acknowledged.<br>  I am extremely grateful to my Java trainer, **Upasana Dewangan** for her patience, corrections and guidance throughout the completion of this project.<br> My sincere and heartfelt appreciation goes to my other QA learning trainers, **Joshua Chesterman** and **Pillerina Paal** for their commitments towards my learning at QA.<br>  I have learnt a lot from the sense of responsibility of QA Client Relationship Manager, **Luke Brown**,  an experience for me to grow on and motivation that I cannot attempt to do less. Thank you so much for always being there.<br> A very huge thank you to my Agile Fundamentals and Jira trainer, **Himanshu Jain**.<br> I am indeed very thankful to my DevOps and Git trainer, **David Tomlinson**. I still remember your word David, **"Do something you love and you never have to work in your life"**.<br> My appreciation also goes to my Network and Security trainer, **Scott Hayes**.<br>  A huge thank you to **Gary Mobey**, my Linux trainer.<br>  Thank you so much **Mark Fitzgerald** for teaching me Databases.<br>   To **Kofi Glover**, thank you very much for taking me through Python.<br>  My gratitude also goes to **David Bedford** for taking me through AZ-900: Microsoft Azure Fundamentals.<br>  To my wonderful trainer in Soft Skill, **Sarah Holroyd**, thank you pretty much.<br>  To all my colleagues during the training, **Feroze Khan, Ashuit Khanna, Vytautas Gruodis, Konain Buhari, Thayaanithi Rasanikanth, Marwa Dawood, Imran Tanbir, Sean Heathcote, Benjamin Pienaar, Naomi Ajagun, Gifty Aning, Ludovico, Aijamal Jusupova** and others.  Thank you all for your contributions and commitments.<br> To my precious **children**, thanks for your understanding.
 
 #
- ###  _Reference_<br>
+ ###  _References_<br>
   1. New Messages! (lucidchart.com) <br>
      https://www.lucidchart.com/pages/er-diagrams <br>
   2. ERD (metabase.com) <br>
