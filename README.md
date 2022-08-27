@@ -1,6 +1,6 @@
 # Book-Supplier-App (BSA)
 
-### Ayeni Abimbola 
+## Ayeni Abimbola 
 QA Software Development Trainee 
 
 Project subimitted to QA <br> 
@@ -9,7 +9,7 @@ completion of the training in Software Development. <br>
 
 under the supervision of
 
-### Upasana Dewangan
+## Upasana Dewangan
 
 ##### August 15, 2022.
 #
@@ -355,5 +355,5 @@ Spring Initializr
   21. Design Patterns - Adapter Pattern (tutorialspoint.com)
   22. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
-
+  #
   #  …there is always more to learn but then, one day at a time!   
