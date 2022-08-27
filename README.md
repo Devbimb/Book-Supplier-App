@@ -245,7 +245,7 @@ Logical ERD2 <br>
 * Spring Boot run as Maven install build success to get .war file<br>
   <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
 
-* Spring war file in target <br>
+* Spring war file in target 
  <img src = https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/snapshotwar.jpg>
  
 * Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
