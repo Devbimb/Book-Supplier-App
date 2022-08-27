@@ -4,9 +4,9 @@
 #### QA Software Development Trainee
 <br>
 <br>
-#### Project subimitted to QA 
-#### in partial fulfilment of the requirement for the 
-#### completion of the training in Software Development.
+#### Project subimitted to QA <br> 
+#### in partial fulfilment of the requirement for the <br>
+#### completion of the training in Software Development. <br>
 
 #### under the supervision of
 
