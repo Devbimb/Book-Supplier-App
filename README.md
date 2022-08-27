@@ -38,8 +38,8 @@ under the supervision of
 19.   Recommendations
 20.   Achievements
 21.   Future Work <br>
-    _Acknowledgement_<br>
-    _Reference_<br>
+    _Acknowledgements_<br>
+    _References_<br>
 
 #
 ### Overview
@@ -145,15 +145,15 @@ The aim of this project is to develop a unique Application for suppliers to mana
 
  #
 ### 7.   Entity Relationship Diagram (ERD) of the BSA
-* Conceptual ERD Drawn using Lucidchart <br>
-  Conceptual ERD1 <br> 
-<img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
-  Conceptual ERD2 <br> 
-<img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> <br>
+
+* Conceptual ERDs Drawn using Lucidchart <br>
+<img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> 
+<img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> 
+
 * Logical ERD Drawn using Lucidchart <br>
-  Logical ERD1 <br> 
 <img src="BookSupApScreenshot/Logical ERD of BSMS1.jpg"> <br>
-Logical ERD2 <br> 
+
+* Physical ERD Drawn using Lucidchart <br>
 <img src="BookSupApScreenshot/Logical ERD of BSMS2.jpg"> <br>
 
 #
@@ -196,6 +196,10 @@ Logical ERD2 <br>
 * GitHub
 * Postman
 * Lucidchart
+* Microsoft Word
+* Microsoft Excel
+* Paint
+* Snipping Tool
 
 #
 ### 11.   Agile & Project Management (Git, Jira)
@@ -205,8 +209,14 @@ Logical ERD2 <br>
   Here's a link to the word document of the **EPIC** and **Features** List <br>
   [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/BookSuppAppEPIC&Featurelist26.08.22.doc)
   
-  Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
-  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
+  * Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel1.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel2.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel3.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel4.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel5.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel6.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel7.jpg"> <br>
   
   Here's a link to the breakdown of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** in Microsof excel <br>
   https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/ProjectBookSupAppUserStories2.xls
@@ -235,12 +245,12 @@ Logical ERD2 <br>
 
 * Project Structure in Spring Boot <br>
   <img width="600" src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
- 
-* Spring war file in target <br>
- <img src = https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/snapshotwar.jpg>
- 
+
 * Spring Boot run as Maven install build success to get .war file<br>
   <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
+
+* Spring war file in target <br> 
+ <img src = https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/snapshotwar.jpg>
  
 * Project Structure in Spring Boot after Spring Boot was run as  Maven install to get .war file<br>
   <img src="BookSupApScreenshot/Project Structure 2.jpg"> <br>
@@ -332,17 +342,17 @@ With the successful completion of this project, the process of book and customer
 * Learnt to connect to Database using MySQL
  
 #
-### 20.   Future Work 
+### 21.   Future Work 
 * Provide more details of the two implemented functionalities 
 * Introduce new funcionaties such as Order, Services, Support, Author, Publishers and Member.  
 * Provide user-friendly CRUD and login operations via front end.
 
 #
-### _Acknowledgement_<br>
+### _Acknowledgements_<br>
 **Dear God!** Thou art the most Rightful to be acknowledged.<br>  I am extremely grateful to my Java trainer, **Upasana Dewangan** for her patience, corrections and guidance throughout the completion of this project.<br> My sincere and heartfelt appreciation goes to my other QA learning trainers, **Joshua Chesterman** and **Pillerina Paal** for their commitments towards my learning at QA.<br>  I have learnt a lot from the sense of responsibility of QA Client Relationship Manager, **Luke Brown**,  an experience for me to grow on and motivation that I cannot attempt to do less. Thank you so much for always being there.<br> A very huge thank you to my Agile Fundamentals and Jira trainer, **Himanshu Jain**.<br> I am indeed very thankful to my DevOps and Git trainer, **David Tomlinson**. I still remember your word David, **"Do something you love and you never have to work in your life"**.<br> My appreciation also goes to my Network and Security trainer, **Scott Hayes**.<br>  A huge thank you to **Gary Mobey**, my Linux trainer.<br>  Thank you so much **Mark Fitzgerald** for teaching me Databases.<br>   To **Kofi Glover**, thank you very much for taking me through Python.<br>  My gratitude also goes to **David Bedford** for taking me through AZ-900: Microsoft Azure Fundamentals.<br>  To my wonderful trainer in Soft Skill, **Sarah Holroyd**, thank you pretty much.<br>  To all my colleagues during the training, **Feroze Khan, Ashuit Khanna, Vytautas Gruodis, Konain Buhari, Thayaanithi Rasanikanth, Marwa Dawood, Imran Tanbir, Sean Heathcote, Benjamin Pienaar, Naomi Ajagun, Gifty Aning, Ludovico, Aijamal Jusupova** and others.  Thank you all for your contributions and commitments.<br> To my precious **children**, thanks for your understanding.
 
 #
- ###  _Reference_<br>
+ ###  _References_<br>
   1. New Messages! (lucidchart.com) <br>
      https://www.lucidchart.com/pages/er-diagrams <br>
   2. ERD (metabase.com) <br>
