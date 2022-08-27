@@ -203,13 +203,10 @@ Logical ERD2 <br>
   Here's a link to the word document of the EPIC and Features <br>
   [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/BookSuppAppEPIC&Featurelist26.08.22.doc)
   
-  Some portion of the user stories and acceptance critarial created in excel<br>
+  Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
   <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
   
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
-  [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
-  
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
+  Here's a link to the breakdown of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** in Microsof excel <br>
   https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/ProjectBookSupAppUserStories2.xls
   
   Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof Word <br>
