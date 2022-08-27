@@ -2,8 +2,7 @@
 
 ### Ayeni Abimbola 
 QA Software Development Trainee 
-####           
-####  
+
 #### Project subimitted to QA 
 in partial fulfilment of the requirement for the <br>
 completion of the training in Software Development.
