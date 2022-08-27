@@ -36,7 +36,7 @@ under the supervision of
 17.   Instructions for the Execution of the Project
 18.   Conclusions
 19.   Recommendations
-20.   Achievement
+20.   Achievements
 21.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
@@ -160,6 +160,7 @@ Logical ERD2 <br>
 ### 8.   ERD of the BSA Area of Concentration
 * ERD derived from MySQL Workbence with DTO <br>
   <img src="BookSupApScreenshot/Db connection diagram with DTO 2.jpg"> <br>
+  The tables are linked together through "id"
 #
 ### 9.   App Features <br>
 #### Book table
@@ -355,21 +356,23 @@ With the successful completion of this project, the process of book and customer
   8. https://github.com/vytautasdev/employee-management-app
   9. https://github.com/imranow/banking-application
   10. https://github.com/Thayaanithi/book-management-app
-  11. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
-  12. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
-  13. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
-  14. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
-  15. https://search.maven.org/search?q=g:junit%20AND%20a:junit
-  16. Appendix A. Common application properties (spring.io)
-  17. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
+  11. https://github.com/akhanna2/employee-management-app
+  12. https://github.com/KonainB/airline-reservation-system
+  13. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
+  14. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
+  15. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
+  16. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
+  17. https://search.maven.org/search?q=g:junit%20AND%20a:junit
+  18. Appendix A. Common application properties (spring.io)
+  19. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
 Spring Initializr
-  18. https://start.spring.io
-  19. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
-  20. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
-  21. https://spring.io/projects/spring-boot
-  22. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
-  23. Design Patterns - Adapter Pattern (tutorialspoint.com)
-  24. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
+  20. https://start.spring.io
+  21. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
+  22. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
+  23. https://spring.io/projects/spring-boot
+  24. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+  25. Design Patterns - Adapter Pattern (tutorialspoint.com)
+  26. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
   #
   #  …there is always more to learn but then, one day at a time!   
