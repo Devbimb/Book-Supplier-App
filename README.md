@@ -1,8 +1,8 @@
 # Book-Supplier-App (BSA)
 
 ###          Ayeni Abimbola 
-#### QA Software Development Trainee <br>
-
+#### QA Software Development Trainee 
+#####   
 
 Project subimitted to QA.. 
 in partial fulfilment of the requirement for the..
@@ -13,7 +13,7 @@ completion of the training in Software Development..
 #### Upasana Dewangan
 
 #### August 15, 2022
-
+#
 ## Contents <br>
    _Overview_<br>
    _Abstract_<br>
