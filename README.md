@@ -58,17 +58,17 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
   * overall reduction of operating cost and time spent.
  
  * Expectation of the Project <br>
-   There are several entities required to complete the functionality of this system with the expectation    of making it avalaible to the appropriate stakeholders within a short period of time.
+   There are several entities required to complete the functionality of this system with the expectation of making it avalaible to the appropriate stakeholders within a short period of time.
  
  * What Went Well <br>
    * The work done showed my capability as at the time of executing this project.
    * Culmination of all the topics I have learnt as part of my training
    * The reports includes evidence of my understanding of the topics I have learnt and wider reading
    * Ability provision by qualified and experienced QA trainer, "Upasana", gave me the confidence
-   * The commitment given to help by my trainer, "Upasana", is a testimony to the success of this            project.
-   * Ongoing learning during the execution of the project is one of the of the things I really liked          about my project.
-   * The general support of the QA via access to QA Community and Cloud Academy has given me the              opportunity to always go back to learn whenever I am stucked.
-   * Also, I think what equally helped me was always asking questions in class whenever I lack                understanding of what we are doing.
+   * The commitment given to help by my trainer, "Upasana", is a testimony to the success of this project.
+   * Ongoing learning during the execution of the project is one of the of the things I really liked about my project.
+   * The general support of the QA via access to QA Community and Cloud Academy has given me the opportunity to always go back to learn whenever I am stucked.
+   * Also, I think what equally helped me was always asking questions in class whenever I lack understanding of what we are doing.
    * I think I did well in my conceptual design.  I thought, it was detailed and had good information.
    * Two entities have been coded and completed and the results have somewhat successful.
 
@@ -88,17 +88,17 @@ _This app was created using a **Spring Boot API**, with utilization of supportin
    * Researchiing more into book management systems
    
  * Screenshots showing Postman Requests and the Output from the API<br>
-   This is as shown in section 12 of the contents<br>
+   This is as shown in section 14 of the contents<br>
  * Screenshots of Database to Prove that data is being Persisted<br>
-   This is as shown in section 9 of the contents<br>  
+   This is as shown in sections 8 and 12 of the contents<br>  
  * Screenshot of Test Results<br>
-   This is as shown in section 13 of the contents<br>
+   This is as shown in section 15 of the contents<br>
  * Link to Jira Board<br>
-   Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the      detailed is as shown in section 8 of the conents.
+   Although, Jira Board was not utilized, Microsoft Excell was used to produced the User Stories, the detailed is as shown in section 11 of the conents.
  
  #
 ### 2. Scope and Limitations of the Project
-The scope of this project at the time of submission is limted to just two functionalities.  The          development to optimize the full functionalties of this app is a continous process.   At this            stage, the most importantant limitations lies in the fact that the level of obtainable result is        far below other apps in existence because of the limited number of available features. 
+The scope of this project at the time of submission is limted to just two functionalities.  The development to optimize the full functionalties of this app is a continous process. At this stage, the most importantant limitations lies in the fact that the level of obtainable result is far below other apps in existence because of the limited number of available features. 
 
 #
 ### 3.   Aim and Objectives of the Project
