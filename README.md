@@ -229,7 +229,7 @@ Logical ERD2 <br>
   <img width="600" src="BookSupApScreenshot/Project Structure 1.jpg"> <br>
  
 * Spring war file in target <br>
- <img src = https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/war file in surefire reports.jpg>
+ <img src = https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/snapshotwar.jpg>
  
 * Spring Boot run as Maven install build success to get .war file<br>
   <img src="BookSupApScreenshot/Build Success after running Maven Install from sts- 4.15.1.jpg"> <br>
