@@ -206,6 +206,9 @@ Logical ERD2 <br>
   Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
   [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot)
   
+  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof excel <br>
+  [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/Project Book Sup App User Stories.xls)
+  
   Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof Word <br>
   [GitHub-link]:https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/Book Supplier App Product Backlog A.M. Ayeni5_2.doc
   
