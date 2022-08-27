@@ -36,7 +36,8 @@ under the supervision of
 17.   Instructions for the Execution of the Project
 18.   Conclusions
 19.   Recommendations
-20.   Future Work <br>
+20.   Achievement
+21.   Future Work <br>
     _Acknowledgement_<br>
     _Reference_<br>
 
@@ -200,7 +201,7 @@ Logical ERD2 <br>
 
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
-  Here's a link to the word document of the EPIC and Features <br>
+  Here's a link to the word document of the **EPIC** and **Features** List <br>
   [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/BookSuppAppEPIC&Featurelist26.08.22.doc)
   
   Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
@@ -209,7 +210,7 @@ Logical ERD2 <br>
   Here's a link to the breakdown of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** in Microsof excel <br>
   https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/ProjectBookSupAppUserStories2.xls
   
-  Here's a link to the breakdown of the EPIC, Features and User Stories in Microsof Word <br>
+  Here's a link to the breakdown of the **EPIC, Features** and **User Stories** in Microsof Word <br>
   [GitHub-link]:https://github.com/Devbimb/Book-Supplier-App/blob/main/BookSupApScreenshot/BookSupplierAppProductBacklogA.M.Ayeni5_3.doc
   
 #
@@ -322,7 +323,13 @@ With the successful completion of this project, the process of book and customer
 * In the future work, Web security should be included in the Spring Boot Application set.
 * Feedback should be gotten from the user of the app for further improvement in  the future work
 * Future work should include payment entity in its development
-
+#
+## 20.   Achievements
+* Built Java Back-end API in Spring Boot.  This Back-end-API has functinalities to:
+  * perform CRUD Operations in Postman
+  * carry out JUnit Test
+* Learnt to connect to Database using MySQL
+ 
 #
 ### 20.   Future Work 
 * Provide more details of the two implemented functionalities 
@@ -346,21 +353,23 @@ With the successful completion of this project, the process of book and customer
   6. https://www.javatpoint.com/spring-boot-crud-operations
   7. https://github.com/Seen-Been/simple-banking-app
   8. https://github.com/vytautasdev/employee-management-app
-  9. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
- 10. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
-  11. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
-  12. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
-  13. https://search.maven.org/search?q=g:junit%20AND%20a:junit
-  14. Appendix A. Common application properties (spring.io)
-  15. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
+  9. https://github.com/imranow/banking-application
+  10. https://github.com/Thayaanithi/book-management-app
+  11. https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-validation/2.7.2
+  12. Maven Repository: org.springframework.boot » spring-boot-starter-validation » 2.7.2 (mvnrepository.com)
+  13. https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
+  14. Maven Repository: mysql » mysql-connector-java » 8.0.29 (mvnrepository.com)
+  15. https://search.maven.org/search?q=g:junit%20AND%20a:junit
+  16. Appendix A. Common application properties (spring.io)
+  17. https://docs.spring.io/spring-boot/docs/1.4.x/reference/html/common-application-properties.html
 Spring Initializr
-  16. https://start.spring.io
-  17. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
-  18. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
-  19. https://spring.io/projects/spring-boot
-  20. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
-  21. Design Patterns - Adapter Pattern (tutorialspoint.com)
-  22. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
+  18. https://start.spring.io
+  19. https://docs.spring.io/spring-framework/docs/4.1.4.RELEASE/javadoc-api/org/springframework/web/servlet/config/annotation/ContentNegotiationConfigurer.html
+  20. ContentNegotiationConfigurer (Spring Framework 4.1.4.RELEASE API)
+  21. https://spring.io/projects/spring-boot
+  22. https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+  23. Design Patterns - Adapter Pattern (tutorialspoint.com)
+  24. https://search.maven.org/artifact/org.hamcrest/hamcrest-core/1.3/jar
 
   #
   #  …there is always more to learn but then, one day at a time!   
