@@ -196,6 +196,10 @@ The aim of this project is to develop a unique Application for suppliers to mana
 * GitHub
 * Postman
 * Lucidchart
+* Microsoft Word
+* Microsoft Excel
+* Paint
+* Snipping Tool
 
 #
 ### 11.   Agile & Project Management (Git, Jira)
