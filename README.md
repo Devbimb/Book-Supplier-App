@@ -200,6 +200,9 @@ Logical ERD2 <br>
 
   <img src="BookSupApScreenshot/EPIC AND FEATURE LIST OF BOOK SUPPLIER APP.jpg"> <br>
   
+  Here's a link to the word document of the EPIC and Features <br>
+  [GitHub-link]:(https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/BookSuppAppEPIC&Featurelist26.08.22.doc)
+  
   Some portion of the user stories and acceptance critarial created in excel<br>
   <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
   
