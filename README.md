@@ -338,7 +338,7 @@ With the successful completion of this project, the process of book and customer
 * Learnt to connect to Database using MySQL
  
 #
-### 20.   Future Work 
+### 21.   Future Work 
 * Provide more details of the two implemented functionalities 
 * Introduce new funcionaties such as Order, Services, Support, Author, Publishers and Member.  
 * Provide user-friendly CRUD and login operations via front end.
