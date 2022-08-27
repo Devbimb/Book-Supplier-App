@@ -147,7 +147,8 @@ The aim of this project is to develop a unique Application for suppliers to mana
 ### 7.   Entity Relationship Diagram (ERD) of the BSA
 
 * Conceptual ERDs Drawn using Lucidchart <br>
-<img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> 
+<img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> 
+<img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> 
 
 * Logical ERD Drawn using Lucidchart <br>
 <img src="BookSupApScreenshot/Logical ERD of BSMS1.jpg"> <br>
