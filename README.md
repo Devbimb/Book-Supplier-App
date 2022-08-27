@@ -207,6 +207,13 @@ Logical ERD2 <br>
   
   Some portion of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** created in excel<br>
   <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel1.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel2.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel3.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel4.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel5.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel6.jpg"> <br>
+  <img src="BookSupApScreenshot/Some portion of the user stories and acceptance critarial created in excel7.jpg"> <br>
   
   Here's a link to the breakdown of the **EPIC**, **Features**, **User Stories** and **Acceptance Criteria** in Microsof excel <br>
   https://github.com/Devbimb/Book-Supplier-App/tree/main/BookSupApScreenshot/ProjectBookSupAppUserStories2.xls
