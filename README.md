@@ -1,8 +1,8 @@
 # Book-Supplier-App (BSA)
 
-###          Ayeni Abimbola 
-QA Software Development Trainee 
-#####   
+##          Ayeni Abimbola 
+      QA Software Development Trainee 
+####  <br>          
 
 ##### Project subimitted to QA.. 
 ##### in partial fulfilment of the requirement for the..
