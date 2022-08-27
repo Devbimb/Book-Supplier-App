@@ -150,7 +150,7 @@ The aim of this project is to develop a unique Application for suppliers to mana
 <img src="BookSupApScreenshot/conceptual ERD of BSMS1.jpg"> <br>
 Conceptual ERD1 <br>
 
-<img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> <br>
+* <img src="BookSupApScreenshot/conceptual ERD of BSMS2.jpg"> 
 Conceptual ERD2 <br> 
 
 * Logical ERD Drawn using Lucidchart <br>
